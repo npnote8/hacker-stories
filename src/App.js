@@ -32,7 +32,7 @@ function App() {
               </span>
               <span>{item.author} </span>
               <span>{item.num_comments} </span>
-              <span>{item.points111} </span>
+              <span>{item.points} </span>
             </li>
           );
         })}
